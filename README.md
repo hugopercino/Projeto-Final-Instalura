@@ -1,3 +1,16 @@
+Não foi feita a migração para o Electrode, pois tive problemas no decorrer da migração.
+
+Tive diversos problemas durante os cursos de React com os links do Herokuapp. Foi complicado fazer os testes para conferir se tudo estava funcionando corretamente. Fiz os códigos da forma que consegui, mesmo tendo os problemas com o Heroku.
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
